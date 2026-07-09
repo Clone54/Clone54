@@ -57,17 +57,6 @@
 
 <br/>
 
-<!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 ### GitHub Statistics:
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
@@ -81,15 +70,13 @@
 
 ### GitHub Statistics & Top Languages:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clone54&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clone54&theme=swift&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clone54&theme=swift&hide_border=true&show_icons=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clone54&theme=swift&hide_border=true&layout=compact&v=1" alt="Top Languages" />
 </div>
 
 ### GitHub Streak:
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Clone54&theme=swift&hide_border=true" alt="GitHub Streak" />
-</div>
-
+  <img src="https://streak-stats.demolab.com/?user=Clone54&theme=swift&hide_border=true&v=1" alt="GitHub Streak" />
 <br/>
 
 <!--- random quote --->
