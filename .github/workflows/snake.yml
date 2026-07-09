@@ -11,6 +11,10 @@ on:
 
 jobs:
   generate:
+    # THIS IS THE NEW FIX: Explicitly grant write permissions
+    permissions: 
+      contents: write
+      
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
