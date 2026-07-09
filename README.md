@@ -69,20 +69,36 @@
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clone54&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clone54&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Clone54&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=Clone54" /></a> |
-| ------------- | ------------- |
+### GitHub Contributions:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Clone54/Clone54/output/github-contribution-grid-snake.svg">
+</picture>
+
+### GitHub Statistics & Top Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clone54&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clone54&theme=swift&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+### GitHub Streak:
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Clone54&theme=swift&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br/>
 
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Random Quote" />
 
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Clone54&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Clone54&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
