@@ -30,7 +30,7 @@
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/firoz-ahmed88" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://facebook.com/firoz.ahmed5678" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="30" width="40" /></a>
+    <a href="https://facebook.com/firoz.ahmed5678" target="blank"><img src="[https://skillicons.dev/icons?i=facebook](https://icons8.com/icon/118497/facebook)" alt="facebook" height="30" width="40" /></a>
     <a href="https://github.com/Clone54" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" /></a>
   </p>
 </div>
